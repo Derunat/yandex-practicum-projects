@@ -1,7 +1,7 @@
 # yandex-practicum-projects
 Проекты, выполненные в курсе Яндекс.Практикума по Data Science
 
-1. [Age-by-photo] (https://github.com/Derunat/yandex-practicum-projects/tree/main/age-by-photo)
+1. [Age-by-photo](https://github.com/Derunat/yandex-practicum-projects/tree/main/age-by-photo)
 Проведен предварительный анализ использования тарифов на выборке клиентов,
 проанализировано поведение клиентов при использовании услуг оператора и
 рекомендованы оптимальные наборы услуг для пользователей. Проведена предобработка
